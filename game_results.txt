@@ -1,0 +1,6 @@
+objective=plants, outcome=Exited safely, gold=0, food=1, plants=1, steps=80
+objective=mixed, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=1
+objective=food, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=9
+objective=food, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
+objective=food, outcome=Killed by enemy, gold=1, food=0, plants=0, steps=56
+objective=plants, outcome=Exited safely, gold=1, food=2, plants=3, steps=190
