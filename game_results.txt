@@ -4,3 +4,26 @@ objective=food, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=9
 objective=food, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
 objective=food, outcome=Killed by enemy, gold=1, food=0, plants=0, steps=56
 objective=plants, outcome=Exited safely, gold=1, food=2, plants=3, steps=190
+objective=gold, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
+objective=gold, outcome=Exited safely, gold=0, food=0, plants=0, steps=38
+objective=food, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=6
+objective=plants, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
+objective=mixed, outcome=Killed by enemy, gold=1, food=0, plants=0, steps=42
+objective=gold, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
+objective=gold, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=11
+objective=gold, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=16
+objective=plants, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=30
+objective=plants, outcome=Exited safely, gold=0, food=0, plants=4, steps=80
+objective=plants, outcome=Exited safely, gold=0, food=0, plants=0, steps=28
+objective=plants, outcome=Exited safely, gold=0, food=1, plants=3, steps=56
+objective=gold, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=17
+objective=mixed, outcome=Killed by enemy, gold=2, food=0, plants=0, steps=48
+objective=plants, outcome=Exited safely, gold=0, food=1, plants=2, steps=70
+objective=mixed, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=30
+objective=mixed, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
+objective=mixed, outcome=Out of steps, gold=1, food=2, plants=4, steps=200
+objective=food, outcome=Out of steps, gold=1, food=3, plants=4, steps=200
+objective=mixed, outcome=Out of steps, gold=0, food=2, plants=4, steps=200
+objective=mixed, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=54
+objective=mixed, outcome=Killed by enemy, gold=0, food=0, plants=0, steps=0
+objective=mixed, outcome=Killed by enemy, gold=2, food=2, plants=4, steps=156

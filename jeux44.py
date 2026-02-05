@@ -124,7 +124,7 @@ for _ in range(4):
 for _ in range(2):
     water_sources.append(spawn_water())
 
-for _ in range(2):
+for _ in range(5):
     enemies.append(spawn_enemy())
 
 # --------------------

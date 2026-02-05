@@ -1,5 +1,5 @@
-run 
+Pour l'installation
 ```
-pip install -r requirements.txt
+bash script.sh
 ```
 ![](illustration.png)
